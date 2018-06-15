@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-/**
+/*
  * Compile error. javac BinarySearch BinarySearch.java
  * error: Class names, 'BinarySearch', are only accepted if
  * annotation processing is explicitly requested 1 error
@@ -31,8 +31,11 @@ public class BinarySearch {
      * @return the index of the the searchElement, -1 if not found
      */
     public static int binarySearchRecursive(int[] searchArray,int searchElement) {
+        int sizeArray = searchArray.length;
+        if(searchArray == null) return -1;
+
         int low = 0;
-        int hi = searchArray.length - 1;
+        int hi = sizeArray - 1;
         // if odd; divide / will give less than one miss
         // (0 + 10)/2 = 5  = 5: 0 1 2 3 4 5 6 7 8 9 10
         // if even; (0 + 9)/2 = 4: 0 1 2 3 4 5 6 7 8 9
@@ -57,14 +60,9 @@ public class BinarySearch {
                     return binarySearchRecursive(searchArray,searchElement,low,mid - 1);
                 }
             }
-            assert (searchElement == searchArray[mid]);
-
             return mid;
 
         }
-
-
-//        return -1; // not found
     }
 
     /**
@@ -97,32 +95,52 @@ public class BinarySearch {
                     return binarySearchRecursive(searchArray,searchElement,low,mid - 1);
                 }
             }
-            assert (searchElement == searchArray[mid]);
             return mid;
         }
     }
+    // binary search only works with sorted array
+    public static int  binarySearchImprovement(int[] sortedArray, int target)
+    {
+        int lo = 0, hi = sortedArray.length-1;
+        return binarySearchImprovement(sortedArray,target,lo,hi);
+    }
+    private static int binarySearchImprovement(int[] searchArray, int target, int lo, int hi)
+    {
+        if (lo > hi)                        return (-1);
+        int mid = (lo + hi) / 2;
+        int valueAtMid = searchArray[mid];
 
-    public static int binarySearch(int[] sortedArray,int value) {
+        if(target == valueAtMid )
+        {
+            while (mid > 0 && searchArray[mid] == searchArray[mid-1]) mid--;
+            return mid;
+        }
+        else if(target > valueAtMid)        return binarySearchImprovement(searchArray,target,mid+1,hi);
+        else                                return binarySearchImprovement(searchArray,target,lo,mid-1);
+    }
+
+    public static int binarySearch(int[] sortedArray,int target) {
         int n = sortedArray.length;
         int lo = 0;
         int hi = n - 1;
-        int mid = (hi - lo) / 2;
+        int mid = (lo + hi) / 2;
         while (mid <= hi && mid >= lo) {
             int midValue = sortedArray[mid];
-            if (value < midValue) {
-                hi = mid - 1;
-                if (hi < lo) return -1;
-                if (hi - lo == 0) mid = lo;
-                else mid = lo + (hi - lo) / 2;
-            } else if (value > midValue) {
-                lo = mid + 1;
-                if (lo > hi) return -1;
-                if (hi - lo == 0) mid = hi;
-                else mid = mid + (hi - mid) / 2;
-            } else {
+            if (midValue == target)
+            {
+                // TODO improve this left terminate, it is not fast.
                 // assume to take the left most index like linear Search
                 while (mid > 0 && sortedArray[mid - 1] == sortedArray[mid]) mid--;
                 return mid;
+            }
+            if (target < midValue) {
+                hi = mid - 1;
+                if (hi < lo) return -1;
+                else mid = (lo + hi) / 2;
+            } else { // (target > midValue)
+                lo = mid + 1;
+                if (lo > hi) return -1;
+                else mid = (lo + hi) / 2;
             }
         }
         return -1;
@@ -142,8 +160,8 @@ public class BinarySearch {
         int m = scanner.nextInt();
         int[] b = new int[m];
         for (int i = 0; i < m; i++) b[i] = scanner.nextInt();
-//        for(int i = 0; i < m; i++) System.out.print(binarySearchRecursive(a,b[i])+" ");
         for (int i = 0; i < m; i++) System.out.print(binarySearch(a,b[i]) + " ");
+
 
 
     }
