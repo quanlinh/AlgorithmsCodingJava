@@ -27,6 +27,42 @@ public class MajorityElement {
         if (max > nums.length/2) return 1;
         else return 0;
     }
+    // Pseudo Code
+
+    /**
+     * Initialize an element m and a counter i with i = 0
+     * For each element x of the input sequence
+     * -> If i = 0, then assign m = x and i = 1
+     * -> Else if m = x, then assign i = i + 1
+     * -> Else assign i = i - 1
+     * Return m
+     * @param nums
+     * @return
+     */
+    public static int getMajorityElementStreamAlgorithmBoyer_Moored(int[] nums)
+    {
+        int size = nums.length;
+        if(size < 2) return size;
+
+        Integer candidate = null;
+        int i = 0;
+        for (int num:nums) {
+            if(i == 0)
+            {
+                i++;
+                candidate = num;
+            } else if(candidate == num) i++;
+            else i--;
+        }
+
+        int count = 0;
+        for (int num: nums)
+        {
+            if(num == candidate) count++;
+        }
+        if(count > nums.length/2)return 1;
+        else return 0;
+    }
 
     public static void main(String[] args) {
         FastScanner scanner = new FastScanner(System.in);

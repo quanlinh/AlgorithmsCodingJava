@@ -22,6 +22,15 @@ class MajorityElementTest {
         assertTrue(MajorityElement.getMajorityElement(array6) == 1);
         assertTrue(MajorityElement.getMajorityElement(array7) == 1);
         assertTrue(MajorityElement.getMajorityElement(array8) == 0);
+//        new test
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array1)==0);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array2) == 0);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array3) == 1);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array4) == 0);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array5) == 0);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array6) == 1);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array7) == 1);
+        assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array8) == 0);
 
 
     }

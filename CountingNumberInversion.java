@@ -76,17 +76,17 @@ public class CountingNumberInversion {
     }
     public static void main(String args[]) {
 
-        String fileName = "E:\\PersonalProjectGitHub\\AlgorithmsCodingJava\\_bcb5c6658381416d19b01bfc1d3993b5_IntegerArray.txt";
-        CountingNumberInversion countingNumberInversion = new CountingNumberInversion();
-        int[] arrayInteger = countingNumberInversion.processInputFile(fileName,100000);
-        System.out.println(countingNumberInversion.countInversion(arrayInteger));
-//        Scanner scanner = new Scanner(System.in);
-//        int n = scanner.nextInt();
-//        int[] a = new int[n];
-//        for (int i = 0; i < n; i++) {
-//            a[i] = scanner.nextInt();
-//        }
+//        String fileName = "E:\\PersonalProjectGitHub\\AlgorithmsCodingJava\\_bcb5c6658381416d19b01bfc1d3993b5_IntegerArray.txt";
 //        CountingNumberInversion countingNumberInversion = new CountingNumberInversion();
-//        System.out.println(countingNumberInversion.countInversion(a));
+//        int[] arrayInteger = countingNumberInversion.processInputFile(fileName,100000);
+//        System.out.println(countingNumberInversion.countInversion(arrayInteger));
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int[] a = new int[n];
+        for (int i = 0; i < n; i++) {
+            a[i] = scanner.nextInt();
+        }
+        CountingNumberInversion countingNumberInversion = new CountingNumberInversion();
+        System.out.println(countingNumberInversion.countInversion(a));
     }
 }

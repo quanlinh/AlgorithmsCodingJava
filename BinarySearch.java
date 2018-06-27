@@ -130,8 +130,9 @@ public class BinarySearch {
             {
                 // TODO improve this left terminate, it is not fast.
                 // assume to take the left most index like linear Search
-                while (mid > 0 && sortedArray[mid - 1] == sortedArray[mid]) mid--;
-                return mid;
+//                while (mid > 0 && sortedArray[mid - 1] == sortedArray[mid]) mid--;
+                if (mid > 0 && sortedArray[mid - 1] == sortedArray[mid]) mid = (lo + hi) / 2;
+                else return mid;
             }
             if (target < midValue) {
                 hi = mid - 1;
