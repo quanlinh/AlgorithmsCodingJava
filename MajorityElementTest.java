@@ -14,7 +14,7 @@ class MajorityElementTest {
         int[] array6 = {1};
         int[] array7 = {1,1};
         int[] array8 = {512766168, 717383758, 5, 126144732, 5, 573799007, 5, 5, 5, 405079772  };
-        assertTrue(MajorityElement.getMajorityElement(array1)==0);
+        assertTrue(MajorityElement.getMajorityElement(array1) == 0);
         assertTrue(MajorityElement.getMajorityElement(array2) == 0);
         assertTrue(MajorityElement.getMajorityElement(array3) == 1);
         assertTrue(MajorityElement.getMajorityElement(array4) == 0);
@@ -31,6 +31,26 @@ class MajorityElementTest {
         assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array6) == 1);
         assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array7) == 1);
         assertTrue(MajorityElement.getMajorityElementStreamAlgorithmBoyer_Moored(array8) == 0);
+
+        // use sorting strategy
+        assertTrue(MajorityElement.getMajorityElementBysorting(array1)==0);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array2) == 0);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array3) == 1);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array4) == 0);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array5) == 0);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array6) == 1);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array7) == 1);
+        assertTrue(MajorityElement.getMajorityElementBysorting(array8) == 0);
+
+        // use divide and conquer strategy
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array1) == 0);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array2) == 0);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array3) == 1);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array4) == 0);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array5) == 0);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array6) == 1);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array7) == 1);
+        assertTrue(MajorityElement.getMajorityElementAlgorithmDivideAndConquer(array8) == 0);
 
 
     }
