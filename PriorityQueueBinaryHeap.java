@@ -5,6 +5,9 @@ public class PriorityQueueBinaryHeap<Item> {
     private int sizeOfQueue;
     private final int DEFAULT_CAPACITY = 10;
 
+    /**
+     * This priority
+     */
     public PriorityQueueBinaryHeap()
 
     {
@@ -75,8 +78,8 @@ public class PriorityQueueBinaryHeap<Item> {
         Comparable<? super Item> keyA = (Comparable<? super Item>) a;
         int value = keyA.compareTo(b);
         // make the String alphabet order of A > Z
-        if (value < 0) return true;
-        else return false;
+        if (value < 0) return false;
+        else return true;
     }
 
     private void exchange(int parentNodeIndex, int childNodeIndex) {
@@ -90,7 +93,7 @@ public class PriorityQueueBinaryHeap<Item> {
      * @return the maximum value
      * remove take logN time for sink down the maximum element
      */
-    public Item removeMax() {
+    public Item removeMin() {
         Item max = priorityQueue[1];
         exchange(1, sizeOfQueue--);
         sink(1);
