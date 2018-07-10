@@ -11,9 +11,17 @@ public class PriorityQueueBinaryHeap<Item> {
     public PriorityQueueBinaryHeap()
 
     {
-        PriorityQueue a = new PriorityQueue();
         this.sizeOfQueue = 0;
         priorityQueue = (Item[]) new Object[DEFAULT_CAPACITY];
+    }
+    /**
+     * This priority
+     */
+    public PriorityQueueBinaryHeap(int initialCapacity)
+
+    {
+        this.sizeOfQueue = 0;
+        priorityQueue = (Item[]) new Object[initialCapacity];
     }
 
     /**
@@ -120,6 +128,9 @@ public class PriorityQueueBinaryHeap<Item> {
 
         return stringBuilder.toString();
     }
+    /**
+     * Consider the first, middle, and final elements of the given array
+     */
 
 
 }

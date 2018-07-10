@@ -11,25 +11,7 @@ import java.util.Scanner;
  * Study more, implement more than one language, until it makes sense.
  */
 public class CountingNumberInversion {
-    int[] processInputFile(String fileName, int fileSize)
-    {
-        int[] input = new int[fileSize];
-        int i = 0;
 
-        try {
-            BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName));
-            String line;
-            while ((line = bufferedReader.readLine()) != null)
-            {
-                input[i++] = Integer.parseInt(line);
-            }
-        }catch (IOException io){
-            io.printStackTrace();
-        }
-
-        // TODO reading the file from .txt and convert to a long array
-        return input;
-    }
     public long countInversion(int[] array)
     {
         int [] tempArray = new int[array.length];
