@@ -38,7 +38,7 @@ class PriorityQueueBinaryHeapTest {
         int[] arrayUnsortedCopy = new int[sizeArray];
         for (int i = 0; i < sizeArray; i++) arrayUnsortedCopy[i] = arrayUnsorted[i];
         randomizedQuickSorted qs = new randomizedQuickSorted();
-        qs.quickSorted(arrayUnsortedCopy);
+        qs.quickSorted(new int[][]{arrayUnsortedCopy});
         for (int val : arrayUnsorted) {
             integerQueue.insert(val);
         }

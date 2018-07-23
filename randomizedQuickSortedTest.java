@@ -14,14 +14,14 @@ class randomizedQuickSortedTest {
     void quickSorted() {
         randomizedQuickSorted randomizedQuickSorted = new randomizedQuickSorted();
         int[] empty = {};
-        randomizedQuickSorted.quickSorted(empty);
+        randomizedQuickSorted.quickSorted(new int[][]{empty});
         assertEquals(empty.length, 0);
         int[] one = {1};
-        randomizedQuickSorted.quickSorted(one);
+        randomizedQuickSorted.quickSorted(new int[][]{one});
         assertEquals(one.length, 1);
         assertEquals(one[0], 1);
         int[] twoOne = {2, 2, 2, 2, 2, 2, 1};
-        randomizedQuickSorted.quickSorted(twoOne);
+        randomizedQuickSorted.quickSorted(new int[][]{twoOne});
         int[] twoOneExpect = {1, 2, 2, 2, 2, 2, 2};
         for (int i = 0; i < twoOne.length; i++) {
             assertEquals(twoOne[i], twoOneExpect[i]);
@@ -37,7 +37,7 @@ class randomizedQuickSortedTest {
         for (int i = 0; i < 10000; i++) {
             assertEquals(copyTenThousands[i], tenThousands[i]);
         }
-        randomizedQuickSorted.quickSorted(tenThousands);
+        randomizedQuickSorted.quickSorted(new int[][]{tenThousands});
         for (int i = 0; i < tenThousands.length; i++) {
             System.out.println(tenThousands[i]);
         }
@@ -54,17 +54,17 @@ class randomizedQuickSortedTest {
         randomizedQuickSorted randomQS = new randomizedQuickSorted();
         String fileName = "/home/qtran/IdeaProjects/AlgorithmsCodingJava/AlgorithmStanford1000IntegersQuickSorted.txt";
         ProcessInputFile processInputFile = new ProcessInputFile(fileName, 10000);
-        int[] randomArray = processInputFile.getInteger();
+        Integer[] randomArray = processInputFile.getInteger();
         long m = randomQS.twoWayQuickSortedFirstPivot(randomArray, 0, randomArray.length - 1, 0, 0);
         assertEquals(m,162085);
-        int[] randomArray2 = processInputFile.getInteger();
+        Integer[] randomArray2 = processInputFile.getInteger();
 
         long numberOfCompareLastPivotMoveToFist = randomQS.twoWayQuickSortedFirstPivot(randomArray2, 0, randomArray2.length - 1, 0, 1);
         assertEquals(numberOfCompareLastPivotMoveToFist,164123);
-        int[] randomArray3 = processInputFile.getInteger();
-        long numberOfCampareMedianOfThreePivot = randomQS.twoWayQuickSortedFirstPivot(randomArray3, 0, randomArray.length - 1, 0, 2);
-        assertEquals(numberOfCampareMedianOfThreePivot,138382);
-        int[] smallArray = {2, 20, 1, 15, 3, 11, 13, 6, 16, 10, 19, 5, 4, 9, 8, 14, 18, 17, 7, 12};
+        Integer[] randomArray3 = processInputFile.getInteger();
+        long numberOfCompareMedianOfThreePivot = randomQS.twoWayQuickSortedFirstPivot(randomArray3, 0, randomArray3.length - 1, 0, 2);
+        assertEquals(numberOfCompareMedianOfThreePivot,138382);
+        Integer[] smallArray = {2, 20, 1, 15, 3, 11, 13, 6, 16, 10, 19, 5, 4, 9, 8, 14, 18, 17, 7, 12};
         long numberOfCampareMedianOfThreePivot2 = randomQS.twoWayQuickSortedFirstPivot(smallArray, 0, smallArray.length - 1, 0, 2);
         assertEquals(numberOfCampareMedianOfThreePivot2,55);
 

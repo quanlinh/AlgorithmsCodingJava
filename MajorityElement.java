@@ -99,7 +99,7 @@ public class MajorityElement {
         if (nums == null || nums.length == 0) return 0;
         if (nums.length == 1) return 1;
         randomizedQuickSorted randomizedQuickSorted = new randomizedQuickSorted();
-        randomizedQuickSorted.quickSorted(nums);
+        randomizedQuickSorted.quickSorted(new int[][]{nums});
         if (nums[nums.length / 2] == nums[0]) return 1;
         else return 0;
     }

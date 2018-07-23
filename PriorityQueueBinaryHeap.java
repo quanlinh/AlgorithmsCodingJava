@@ -1,4 +1,3 @@
-import java.util.PriorityQueue;
 
 public class PriorityQueueBinaryHeap<Item> {
     private Item[] priorityQueue;

@@ -14,9 +14,9 @@ public class ProcessInputFile {
     }
 
 
-    public int[] getInteger()
+    public Integer[] getInteger()
     {
-        int[] input = new int[fileSize];
+        Integer[] input = new Integer[fileSize];
         int i = 0;
 
         try {
