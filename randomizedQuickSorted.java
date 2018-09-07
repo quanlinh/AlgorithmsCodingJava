@@ -38,9 +38,7 @@ public class randomizedQuickSorted {
         if (wayToPickPivot == 1) swapByIndex(nums, lo, hi);
         else if (wayToPickPivot == 2) {
             int medianIndex = lo + (hi - lo) / 2;
-//            System.out.println(medianIndex + "\t median index");
             medianIndex = pickMedianOfTheThree(nums, lo, medianIndex, hi);
-//            swapByIndex(nums, lo, medianIndex);
             if (medianIndex != lo) swapByIndex(nums, lo, medianIndex);
 
         }
@@ -48,7 +46,6 @@ public class randomizedQuickSorted {
         long numberComparisionOnTheLeft = twoWayQuickSortedFirstPivot(nums, lo, pivot - 1, numberComparision, wayToPickPivot);
         long numberComparisionOnTheRight = twoWayQuickSortedFirstPivot(nums, pivot + 1, hi, numberComparision, wayToPickPivot);
         numberComparision += (hi - lo) + numberComparisionOnTheLeft + numberComparisionOnTheRight;
-//        System.out.println(numberComparision + " number of comparison");
         return numberComparision;
     }
 
