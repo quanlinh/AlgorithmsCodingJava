@@ -33,7 +33,7 @@ public final class BigMultiplications {
         int lenFirstNumber = firstNumber.length();
         int lenSecondNumber = secondNumber.length();
         int lenlowerBound = Math.min(lenFirstNumber,lenSecondNumber);
-        if (lenlowerBound < 3) {
+        if (lenlowerBound  == 1) {
             BigInteger first = new BigInteger(firstNumber);
             BigInteger second = new BigInteger(secondNumber);
             BigInteger res = first.multiply(second);
