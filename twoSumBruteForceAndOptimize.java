@@ -25,4 +25,26 @@ public class twoSumBruteForceAndOptimize {
         }
         return new int[0];
     }
+    public int[] twoSumRevisited(int[] nums, int target) {
+        // new int[2]{}; is wrong
+        if(nums == null ||  nums.length < 2) return new int[2];
+
+        HashMap<Integer,Integer>  complement = new HashMap<>();
+        for(int i = 0; i < nums.length; i++) {
+            complement.put(nums[i],i); // did not read requirement careful
+        }
+        // O(n)
+        for(int i = 0; i < nums.length; i++) {
+            int key = target-nums[i];
+            if(complement.containsKey(key) && complement.get(key) != i) {
+                return new int[]{i,complement.get(key)};
+            }
+        }
+        // O(n)
+        // should not get here
+        return new int[2];
+        // O(2n) ~ O(n)
+    }
+
+
 }

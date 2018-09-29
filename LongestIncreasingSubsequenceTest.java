@@ -45,5 +45,10 @@ class LongestIncreasingSubsequenceTest {
         assertEquals(lis.findLongestIncreasingSubSequencesByPatienceSorted(d).size(), 6);
 //        int[] expected_d = {1, 3, 6, 7, 9, 10};
     }
+    @Test
+    void testTheOptimalSpaceVersion() {
+        LongestIncreasingSubsequence longestIncreasingSubsequence = new LongestIncreasingSubsequence();
+        longestIncreasingSubsequence.lenthOFLongestIncreasingSubsequenceOptimalSpace(new int[] {0,8,4,2,12});
+    }
 
 }
