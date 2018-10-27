@@ -28,14 +28,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$CreateAMaximumNumberTest_simpleTestCreateMaxIndex.ic" NAME="CreateAMaximumNumberTest.simpleTestCreateMaxIndex Coverage Results" MODIFIED="1536891493947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$PermutationObjectsTest_testSimpleCases.ic" NAME="PermutationObjectsTest.testSimpleCases Coverage Results" MODIFIED="1534999163919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$WiggleSortZigZatTest_testSimple.ic" NAME="WiggleSortZigZatTest.testSimple Coverage Results" MODIFIED="1535614783951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$ClosestPairOfPoints.ic" NAME="ClosestPairOfPoints Coverage Results" MODIFIED="1531883715331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$FindMatchingStringPatternsTest_testTwo.ic" NAME="FindMatchingStringPatternsTest.testTwo Coverage Results" MODIFIED="1536303248712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$GeneratePascalTrianglesTest_simpleTest.ic" NAME="GeneratePascalTrianglesTest.simpleTest Coverage Results" MODIFIED="1536350706974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$FindLuckyDates.ic" NAME="FindLuckyDates Coverage Results" MODIFIED="1536991152972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$ClosestPairOfPoints.ic" NAME="ClosestPairOfPoints Coverage Results" MODIFIED="1531883715331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$MonotoneIncreasingDigitsTest_testMonotoneIncreasing.ic" NAME="MonotoneIncreasingDigitsTest.testMonotoneIncreasing Coverage Results" MODIFIED="1536963856704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$WiggleSortZigZatTest_testSimple.ic" NAME="WiggleSortZigZatTest.testSimple Coverage Results" MODIFIED="1535614783951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$CreateAMaximumNumberTest_simpleTestCreateMaxIndex.ic" NAME="CreateAMaximumNumberTest.simpleTestCreateMaxIndex Coverage Results" MODIFIED="1536891493947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.6025641">
@@ -261,10 +261,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="197" />
-    <option name="y" value="259" />
-    <option name="width" value="1707" />
-    <option name="height" value="948" />
+    <option name="x" value="-1929" />
+    <option name="y" value="-375" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -292,10 +292,13 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="two&#9;PSI&#9;JAVA://twoSumBruteForceAndOptimize&#10;Lo&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/LongestIncreasingSubsequence.java&#10;Long&#9;PSI&#9;JAVA://LongestIncreasingSubsequenceTest&#10;range&#9;PSI&#9;JAVA://CountingOccurrences#rangeSearch&#10;longe&#9;PSI&#9;JAVA://LongestIncreasingSubsequence&#10;An&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/AnalyticalDatatbases.java&#10;rem&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigitsTest.java&#10;removeK&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigits.java&#10;ReverseIn&#9;PSI&#9;JAVA://ReverseInteger&#10;WordB&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/WordBreakTest.java&#10;Quick&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;random&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Pr&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;Pri&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;r&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSortedTest.java&#10;mergesort&#9;PSI&#9;JAVA://CountingNumberInversion#mergeSort&#10;kara&#9;PSI&#9;JAVA://BigMultiplicationsTest#testKaratSubaEven&#10;ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Prior&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Baln&#9;RUN_CONFIGURATION&#9;BalanceRedBlackTreeTest.insertIntoA3NodeAtTheBottom&#10;Unbal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTree.java&#10;unb&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTreeTest.java&#10;B&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Prio&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RandomArray.java&#10;bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java&#10;bala&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540609819996" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Scala_Scalabe_Language" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -330,129 +333,78 @@
   <component name="RunManager" selected="JUnit.ReshapeMatrixTest.testReshapeMatrix">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="FoundNumberNotInPairTest.testFoundNumberNotInPair" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FoundNumberNotInPairTest" />
       <option name="METHOD_NAME" value="testFoundNumberNotInPair" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LongestIncreasingSubsequenceTest" />
       <option name="METHOD_NAME" value="testTheOptimalSpaceVersion" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="RemoveDuplicateLettersTest.hardnessTestRemoveWithOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RemoveDuplicateLettersTest" />
       <option name="METHOD_NAME" value="hardnessTestRemoveWithOrders" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ReshapeMatrixTest.testReshapeMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ReshapeMatrixTest" />
       <option name="METHOD_NAME" value="testReshapeMatrix" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SearchInRotateSortedArrayTest.testEdgeCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SearchInRotateSortedArrayTest" />
       <option name="METHOD_NAME" value="testEdgeCases" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="JUnit.RemoveDuplicateLettersTest.hardnessTestRemoveWithOrders" />
