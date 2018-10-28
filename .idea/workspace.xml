@@ -4,24 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/ClosestPairOfPoints.java" line="224" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb572214-66a9-43c7-85ec-b636ac351b6d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/FoundNumberNotInPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundNumberNotInPairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReshapeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReshapeMatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeachIn2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeachIn2DMatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchInRotateSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchInRotateSortedArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountingOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/CountingOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindLuckyDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/FindLuckyDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestIncreasingSubsequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LongestIncreasingSubsequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twoSumBruteForceAndOptimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/twoSumBruteForceAndOptimize.java" afterDir="false" />
+    <list default="true" id="fb572214-66a9-43c7-85ec-b636ac351b6d" name="Default" comment="set matrix zero">
+      <change afterPath="$PROJECT_DIR$/SpiralMatrixAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfPathsBoardGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmsCodingJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmsCodingJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,147 +27,78 @@
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$MonotoneIncreasingDigitsTest_testMonotoneIncreasing.ic" NAME="MonotoneIncreasingDigitsTest.testMonotoneIncreasing Coverage Results" MODIFIED="1536963856704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/AlgorithmsCodingJava$CreateAMaximumNumberTest_simpleTestCreateMaxIndex.ic" NAME="CreateAMaximumNumberTest.simpleTestCreateMaxIndex Coverage Results" MODIFIED="1536891493947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1509899308">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/SumOfPathsBoardGame" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2903" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2903" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6025641">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="RemoveDuplicateLetters.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/RemoveDuplicateLetters.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2414">
-                  <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SeachIn2DMatrix.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SeachIn2DMatrix.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ReshapeMatrix.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ReshapeMatrix.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" selection-start-line="18" selection-end-line="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="twoSumBruteForceAndOptimize.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/twoSumBruteForceAndOptimize.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ReshapeMatrixTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ReshapeMatrixTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="LongestIncreasingSubsequenceTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequenceTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="816">
-                  <caret line="50" column="106" selection-start-line="50" selection-start-column="106" selection-end-line="50" selection-end-column="106" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SeachIn2DMatrixTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/SeachIn2DMatrixTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FoundNumberNotInPair.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/FoundNumberNotInPair.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="20" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SearchInRotateSortedArray.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SearchInRotateSortedArray.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="663">
-                  <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
-                  <folding>
-                    <element signature="e#87#88#0" expanded="true" />
-                    <element signature="e#161#162#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CountingOccurrences.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CountingOccurrences.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="27" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SearchInRotateSortedArrayTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SearchInRotateSortedArrayTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SumOfPathsBoardGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-909">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -206,9 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GenerateSubsets.java" />
-        <option value="$PROJECT_DIR$/FindPeakElement.java" />
-        <option value="$PROJECT_DIR$/FindPeakElementTest.java" />
         <option value="$PROJECT_DIR$/adf.java" />
         <option value="$PROJECT_DIR$/MergeIntervalsTest.java" />
         <option value="$PROJECT_DIR$/Interval.java" />
@@ -257,8 +175,17 @@
         <option value="$PROJECT_DIR$/ReshapeMatrixTest.java" />
         <option value="$PROJECT_DIR$/ReshapeMatrix.java" />
         <option value="$PROJECT_DIR$/twoSumBruteForceAndOptimize.java" />
+        <option value="$PROJECT_DIR$/SpiralMatrixAlgorithm.java" />
+        <option value="$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/SumOfPathsBoardGame.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1929" />
@@ -271,6 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,9 +211,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,28 +220,28 @@
     <property name="SearchEverywhereHistoryKey" value="two&#9;PSI&#9;JAVA://twoSumBruteForceAndOptimize&#10;Lo&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/LongestIncreasingSubsequence.java&#10;Long&#9;PSI&#9;JAVA://LongestIncreasingSubsequenceTest&#10;range&#9;PSI&#9;JAVA://CountingOccurrences#rangeSearch&#10;longe&#9;PSI&#9;JAVA://LongestIncreasingSubsequence&#10;An&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/AnalyticalDatatbases.java&#10;rem&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigitsTest.java&#10;removeK&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigits.java&#10;ReverseIn&#9;PSI&#9;JAVA://ReverseInteger&#10;WordB&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/WordBreakTest.java&#10;Quick&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;random&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Pr&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;Pri&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;r&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSortedTest.java&#10;mergesort&#9;PSI&#9;JAVA://CountingNumberInversion#mergeSort&#10;kara&#9;PSI&#9;JAVA://BigMultiplicationsTest#testKaratSubaEven&#10;ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Prior&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Baln&#9;RUN_CONFIGURATION&#9;BalanceRedBlackTreeTest.insertIntoA3NodeAtTheBottom&#10;Unbal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTree.java&#10;unb&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTreeTest.java&#10;B&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Prio&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RandomArray.java&#10;bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java&#10;bala&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540609819996" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540693524680" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,20 +256,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReshapeMatrixTest.testReshapeMatrix">
-    <configuration default="true" type="Application" factoryName="Application">
+  <component name="RunManager" selected="Application.SumOfPathsBoardGame">
+    <configuration name="SumOfPathsBoardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfPathsBoardGame" />
+      <module name="AlgorithmsCodingJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoundNumberNotInPairTest.testFoundNumberNotInPair" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmsCodingJava" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FoundNumberNotInPairTest" />
-      <option name="METHOD_NAME" value="testFoundNumberNotInPair" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -353,17 +276,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LongestIncreasingSubsequenceTest" />
       <option name="METHOD_NAME" value="testTheOptimalSpaceVersion" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicateLettersTest.hardnessTestRemoveWithOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmsCodingJava" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateLettersTest" />
-      <option name="METHOD_NAME" value="hardnessTestRemoveWithOrders" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -381,11 +293,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRotateSortedArrayTest.testEdgeCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpiralMatrixAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchInRotateSortedArrayTest" />
-      <option name="METHOD_NAME" value="testEdgeCases" />
+      <option name="MAIN_CLASS_NAME" value="SpiralMatrixAlgorithmTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralMatrixAlgorithmTest.test0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsCodingJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpiralMatrixAlgorithmTest" />
+      <option name="METHOD_NAME" value="test0" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -407,19 +328,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RemoveDuplicateLettersTest.hardnessTestRemoveWithOrders" />
-      <item itemvalue="JUnit.FoundNumberNotInPairTest.testFoundNumberNotInPair" />
-      <item itemvalue="JUnit.SearchInRotateSortedArrayTest.testEdgeCases" />
       <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" />
       <item itemvalue="JUnit.ReshapeMatrixTest.testReshapeMatrix" />
+      <item itemvalue="JUnit.SpiralMatrixAlgorithmTest" />
+      <item itemvalue="JUnit.SpiralMatrixAlgorithmTest.test0" />
+      <item itemvalue="Application.SumOfPathsBoardGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfPathsBoardGame" />
+        <item itemvalue="JUnit.SpiralMatrixAlgorithmTest.test0" />
+        <item itemvalue="JUnit.SpiralMatrixAlgorithmTest" />
         <item itemvalue="JUnit.ReshapeMatrixTest.testReshapeMatrix" />
         <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" />
-        <item itemvalue="JUnit.SearchInRotateSortedArrayTest.testEdgeCases" />
-        <item itemvalue="JUnit.FoundNumberNotInPairTest.testFoundNumberNotInPair" />
-        <item itemvalue="JUnit.RemoveDuplicateLettersTest.hardnessTestRemoveWithOrders" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +354,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529479300657</updated>
+      <workItem from="1540609744133" duration="3204000" />
+      <workItem from="1540663528264" duration="14340000" />
     </task>
     <task id="LOCAL-00001" summary="set matrix zero">
       <created>1536728995467</created>
@@ -445,9 +368,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchInRotateSortedArrayTest_testEdgeCases - 2018.09.16 at 20h 37m 27s.xml">
-      <configuration name="SearchInRotateSortedArrayTest.testEdgeCases" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SearchInRotateSortedArrayTest_testEdgeCases - 2018.09.16 at 20h 41m 08s.xml">
       <configuration name="SearchInRotateSortedArrayTest.testEdgeCases" configurationId="JUnit" />
     </history-entry>
@@ -475,6 +395,12 @@
     <history-entry file="ReshapeMatrixTest_testReshapeMatrix - 2018.09.17 at 15h 31m 45s.xml">
       <configuration name="ReshapeMatrixTest.testReshapeMatrix" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SpiralMatrixAlgorithmTest_test0 - 2018.10.26 at 20h 49m 26s.xml">
+      <configuration name="SpiralMatrixAlgorithmTest.test0" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,66 +412,71 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="-1927" y="-373" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.0" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18590604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007553" side_tool="true" weight="0.23529412" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Run" order="8" sideWeight="0.6180328" weight="0.22275642" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.17860962" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14369658" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.13903743" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24924472" />
-      <window_info active="true" anchor="right" id="Coverage" order="9" sideWeight="0.38196722" side_tool="true" visible="true" weight="0.37126067" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.121145375" />
-      <window_info anchor="bottom" id="Messages" order="6" weight="0.0513369" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6180328" visible="true" weight="0.27234042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.08085106" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.28652483" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007553" side_tool="true" weight="0.23529412" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.17860962" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24899329" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info active="true" anchor="right" id="Coverage" order="8" sideWeight="0.38196722" side_tool="true" visible="true" weight="0.37126067" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24924472" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Run" order="8" sideWeight="0.6180328" weight="0.22275642" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Messages" order="6" weight="0.051762115" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.0" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.121145375" />
       <window_info active="true" anchor="bottom" id="Debug" order="2" visible="true" weight="0.13903743" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info active="true" anchor="right" id="Coverage" order="9" sideWeight="0.38196722" side_tool="true" visible="true" weight="0.37126067" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007553" side_tool="true" weight="0.23529412" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.051762115" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007553" side_tool="true" weight="0.23529412" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.17860962" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24924472" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Run" order="8" sideWeight="0.6180328" weight="0.22275642" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" sideWeight="0.38196722" side_tool="true" visible="true" weight="0.37126067" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -622,7 +553,6 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="92" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -630,62 +560,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CharacterSortedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DistributedCandiesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MinimumSpanningTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MinimumSpanningTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DistributedCandies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTreeQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="586" column="13" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java" />
     <entry file="file://$PROJECT_DIR$/CustomeSortedStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -714,20 +589,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/AssertArrayEquals.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/AssertArrayEquals.class" />
     <entry file="file://$PROJECT_DIR$/SetZeroInMaxtrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -777,41 +640,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/AssertEquals.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="185" selection-start-line="185" selection-end-line="185" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3065" selection-start-line="3065" selection-end-line="3065" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="280" selection-start-line="280" selection-end-line="280" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/AssertEquals.class" />
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/TreeMap.java" />
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Character.java" />
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java" />
     <entry file="file://$PROJECT_DIR$/RemoveDuplicateLettersTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -863,41 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/Assertions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SearchInRotateSortedArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CountingOccurrences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SearchInRotateSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/Assertions.class" />
     <entry file="file://$PROJECT_DIR$/IncreasingTripletsSubsequenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -905,13 +704,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="1900" column="22" selection-start-line="1900" selection-start-column="22" selection-end-line="1900" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/FoundNumberNotInPairTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -926,47 +719,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoundNumberNotInPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="50" column="106" selection-start-line="50" selection-start-column="106" selection-end-line="50" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveDuplicateLetters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SeachIn2DMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2414">
-          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class" />
     <entry file="file://$PROJECT_DIR$/SeachIn2DMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -978,16 +731,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+    <entry file="file://$PROJECT_DIR$/SearchInRotateSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="663">
+          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twoSumBruteForceAndOptimize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -998,10 +755,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twoSumBruteForceAndOptimize.java">
+    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="623">
+          <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicateLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountryCodeToCountry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignTinyURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeachIn2DMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="50" column="106" selection-start-line="50" selection-start-column="106" selection-end-line="50" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundNumberNotInPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountingOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchInRotateSortedArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar!/org/junit/jupiter/api/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/SumOfPathsBoardGame">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>SumOfPathsBoardGame</OriginalElement>
+          <nodes>
+            <node x="" y="">SumOfPathsBoardGame</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="87.5" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumOfPathsBoardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-909">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1045,7 +910,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10 (1)</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1081,6 +946,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
