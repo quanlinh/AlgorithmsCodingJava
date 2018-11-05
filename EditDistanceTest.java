@@ -19,6 +19,7 @@ class EditDistanceTest {
         EditDistance editDistance = new EditDistance();
         assertEquals(editDistance.minimumEditDistance("horse","ros"),3);
         assertEquals(editDistance.minimumEditDistance("intention","execution"),5);
+        assertEquals(editDistance.minimumEditDistance("ab","ab"),0);
 //        assertEquals(editDistance.minimumEditDistance("horse","ros"),3);
     }
 }

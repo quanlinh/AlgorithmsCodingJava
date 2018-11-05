@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class EditDistance {
     public boolean oneEditAway(String first,String second) {
         if (Math.abs(first.length() - second.length()) > 1) {
@@ -48,4 +50,13 @@ public class EditDistance {
             editTable[0][c] = c;
         }
     }
+    public static void main(String args[]) {
+        Scanner scan = new Scanner(System.in);
+
+        String s = scan.next();
+        String t = scan.next();
+        EditDistance editDistance = new EditDistance();
+        System.out.println(editDistance.minimumEditDistance(s, t));
+    }
+
 }
