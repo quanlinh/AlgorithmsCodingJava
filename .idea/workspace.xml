@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fb572214-66a9-43c7-85ec-b636ac351b6d" name="Default" comment="solve unique path problems.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToIntegerTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,35 +35,35 @@
     <session id="1509899308">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/SumOfPathsBoardGame" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="9" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2907" />
+          <entry key="java" value="3408" />
           <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2907" />
+          <entry key="JAVA" value="3408" />
           <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
@@ -69,11 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-89">
-              <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+            <state relative-caret-position="266">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,9 +84,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RomanToInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RomanToIntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SumOfPathsBoardGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-613">
+            <state relative-caret-position="340">
               <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
             </state>
           </provider>
@@ -93,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="34">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -137,8 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/adf.java" />
-        <option value="$PROJECT_DIR$/MergeIntervalsTest.java" />
         <option value="$PROJECT_DIR$/Interval.java" />
         <option value="$PROJECT_DIR$/MergeIntervals.java" />
         <option value="$PROJECT_DIR$/CountingSortedColors.java" />
@@ -188,6 +211,8 @@
         <option value="$PROJECT_DIR$/SpiralMatrixAlgorithm.java" />
         <option value="$PROJECT_DIR$/SumOfPathsBoardGame.java" />
         <option value="$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/RomanToInteger.java" />
+        <option value="$PROJECT_DIR$/RomanToIntegerTest.java" />
       </list>
     </option>
   </component>
@@ -198,18 +223,18 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1929" />
-    <option name="y" value="-375" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-1930" />
+    <option name="y" value="-376" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,10 +252,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="two&#9;PSI&#9;JAVA://twoSumBruteForceAndOptimize&#10;Lo&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/LongestIncreasingSubsequence.java&#10;Long&#9;PSI&#9;JAVA://LongestIncreasingSubsequenceTest&#10;range&#9;PSI&#9;JAVA://CountingOccurrences#rangeSearch&#10;longe&#9;PSI&#9;JAVA://LongestIncreasingSubsequence&#10;An&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/AnalyticalDatatbases.java&#10;rem&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigitsTest.java&#10;removeK&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigits.java&#10;ReverseIn&#9;PSI&#9;JAVA://ReverseInteger&#10;WordB&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/WordBreakTest.java&#10;Quick&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;random&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Pr&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;Pri&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;r&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSortedTest.java&#10;mergesort&#9;PSI&#9;JAVA://CountingNumberInversion#mergeSort&#10;kara&#9;PSI&#9;JAVA://BigMultiplicationsTest#testKaratSubaEven&#10;ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Prior&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Baln&#9;RUN_CONFIGURATION&#9;BalanceRedBlackTreeTest.insertIntoA3NodeAtTheBottom&#10;Unbal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTree.java&#10;unb&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTreeTest.java&#10;B&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Prio&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RandomArray.java&#10;bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java&#10;bala&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java" />
+    <property name="SearchEverywhereHistoryKey" value="Rom&#9;PSI&#9;JAVA://RomanToIntegerTest&#10;Roman&#9;PSI&#9;JAVA://RomanToInteger&#10;two&#9;PSI&#9;JAVA://twoSumBruteForceAndOptimize&#10;Lo&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/LongestIncreasingSubsequence.java&#10;Long&#9;PSI&#9;JAVA://LongestIncreasingSubsequenceTest&#10;range&#9;PSI&#9;JAVA://CountingOccurrences#rangeSearch&#10;longe&#9;PSI&#9;JAVA://LongestIncreasingSubsequence&#10;An&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/AnalyticalDatatbases.java&#10;rem&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigitsTest.java&#10;removeK&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RemoveKDigits.java&#10;ReverseIn&#9;PSI&#9;JAVA://ReverseInteger&#10;WordB&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/WordBreakTest.java&#10;Quick&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;random&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Pr&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;Pri&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeap.java&#10;r&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSortedTest.java&#10;mergesort&#9;PSI&#9;JAVA://CountingNumberInversion#mergeSort&#10;kara&#9;PSI&#9;JAVA://BigMultiplicationsTest#testKaratSubaEven&#10;ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/randomizedQuickSorted.java&#10;Prior&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Baln&#9;RUN_CONFIGURATION&#9;BalanceRedBlackTreeTest.insertIntoA3NodeAtTheBottom&#10;Unbal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTree.java&#10;unb&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/UnbalancedBinarySearchTreeTest.java&#10;B&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTreeTest.java&#10;Prio&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/PriorityQueueBinaryHeapTest.java&#10;Ran&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/RandomArray.java&#10;bal&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java&#10;bala&#9;FILE&#9;file:///home/qtran/IdeaProjects/AlgorithmsCodingJava/BalanceRedBlackTree.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540698351914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542057462875" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -266,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfPathsBoardGame">
+  <component name="RunManager" selected="JUnit.RomanToIntegerTest.testInvalid">
     <configuration name="SumOfPathsBoardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfPathsBoardGame" />
       <module name="AlgorithmsCodingJava" />
@@ -281,22 +306,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestIncreasingSubsequenceTest" />
-      <option name="METHOD_NAME" value="testTheOptimalSpaceVersion" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="RomanToIntegerTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReshapeMatrixTest.testReshapeMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntegerTest.testInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsCodingJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReshapeMatrixTest" />
-      <option name="METHOD_NAME" value="testReshapeMatrix" />
+      <option name="MAIN_CLASS_NAME" value="RomanToIntegerTest" />
+      <option name="METHOD_NAME" value="testInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -338,19 +361,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" />
-      <item itemvalue="JUnit.ReshapeMatrixTest.testReshapeMatrix" />
       <item itemvalue="JUnit.SpiralMatrixAlgorithmTest" />
       <item itemvalue="JUnit.SpiralMatrixAlgorithmTest.test0" />
       <item itemvalue="Application.SumOfPathsBoardGame" />
+      <item itemvalue="JUnit.RomanToIntegerTest" />
+      <item itemvalue="JUnit.RomanToIntegerTest.testInvalid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RomanToIntegerTest.testInvalid" />
+        <item itemvalue="JUnit.RomanToIntegerTest" />
         <item itemvalue="Application.SumOfPathsBoardGame" />
         <item itemvalue="JUnit.SpiralMatrixAlgorithmTest.test0" />
         <item itemvalue="JUnit.SpiralMatrixAlgorithmTest" />
-        <item itemvalue="JUnit.ReshapeMatrixTest.testReshapeMatrix" />
-        <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +389,7 @@
       <updated>1529479300657</updated>
       <workItem from="1540609744133" duration="3204000" />
       <workItem from="1540663528264" duration="15887000" />
+      <workItem from="1542045704149" duration="4707000" />
     </task>
     <task id="LOCAL-00001" summary="set matrix zero">
       <created>1536728995467</created>
@@ -385,39 +409,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchInRotateSortedArrayTest_testEdgeCases - 2018.09.16 at 20h 41m 08s.xml">
-      <configuration name="SearchInRotateSortedArrayTest.testEdgeCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_testTheOptimalSpaceVersion - 2018.09.17 at 13h 23m 49s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_testTheOptimalSpaceVersion - 2018.09.17 at 13h 24m 00s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_testTheOptimalSpaceVersion - 2018.09.17 at 13h 26m 39s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_testTheOptimalSpaceVersion - 2018.09.17 at 13h 33m 22s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_testTheOptimalSpaceVersion - 2018.09.17 at 14h 12m 47s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.testTheOptimalSpaceVersion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReshapeMatrixTest_testReshapeMatrix - 2018.09.17 at 15h 30m 06s.xml">
-      <configuration name="ReshapeMatrixTest.testReshapeMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReshapeMatrixTest_testReshapeMatrix - 2018.09.17 at 15h 31m 42s.xml">
-      <configuration name="ReshapeMatrixTest.testReshapeMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReshapeMatrixTest_testReshapeMatrix - 2018.09.17 at 15h 31m 45s.xml">
-      <configuration name="ReshapeMatrixTest.testReshapeMatrix" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpiralMatrixAlgorithmTest_test0 - 2018.10.26 at 20h 49m 26s.xml">
       <configuration name="SpiralMatrixAlgorithmTest.test0" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 43m 13s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 43m 30s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 50m 01s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 51m 27s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 55m 36s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 55m 37s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 57m 12s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest - 2018.11.12 at 12h 57m 28s.xml">
+      <configuration name="RomanToIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanToIntegerTest_testInvalid - 2018.11.12 at 12h 58m 04s.xml">
+      <configuration name="RomanToIntegerTest.testInvalid" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19091000" />
+    <option name="totallyTimeSpent" value="23798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,7 +456,7 @@
     <frame x="-1927" y="-373" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18590604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24362417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -441,12 +465,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.121145375" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6180328" weight="0.27234042" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6180328" weight="0.22269504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.08085106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.0" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.28652483" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.28652483" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007553" side_tool="true" weight="0.23529412" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.17860962" />
@@ -515,14 +539,6 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/RomanToInteger.java</url>
-          <line>39</line>
-          <properties class="RomanToInteger" method="romanToIntImprove">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/GeneratePascalTriangles.java</url>
           <line>7</line>
           <properties class="GeneratePascalTriangles" method="generate">
@@ -578,14 +594,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/java/jdk-10.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java" />
-    <entry file="file://$PROJECT_DIR$/CustomeSortedStringsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CharacterSorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -777,9 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="623">
           <caret line="143" column="51" selection-start-line="143" selection-start-column="51" selection-end-line="143" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,7 +861,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="87.5" y="14.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="88.0" y="15.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -864,10 +869,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="266">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -876,17 +881,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SumOfPathsBoardGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-613">
+        <state relative-caret-position="340">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithmTest.java">
+    <entry file="file://$PROJECT_DIR$/SpiralMatrixAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="34">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RomanToIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
           </folding>
         </state>
       </provider>

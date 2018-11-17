@@ -56,12 +56,10 @@ public class RomanToInteger {
 
         for (int i = s.length() - 1; i >= 0; i--) {
             int dig = hash[s.charAt(i) - 'A'];
-
             if (dig < prev)
                 roman -= dig;
             else
                 roman += dig;
-
             prev = dig;
         }
 
