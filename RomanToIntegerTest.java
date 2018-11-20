@@ -20,7 +20,7 @@ class RomanToIntegerTest {
         assertEquals(romanToInteger.romanToIntImprove("IM"), 999);
     }
     void testCombineSubTraction() {
-        assertEquals(romanToInteger.romanToIntImprove("XIV"),);
+        assertEquals(romanToInteger.romanToIntImprove("XIV"),19);
         assertEquals(romanToInteger.romanToIntImprove("XIX"),19);
     }
 
