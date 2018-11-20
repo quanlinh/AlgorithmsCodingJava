@@ -6,7 +6,7 @@ public class MaxAreaOfIsland {
     * If, we are not allow to change, we can still do it by increase the number
     * to 2. Then reset it afterwards.
     * The Space is O(row*col) of the matrix
-    * The time is O(N) because we only visited the matrix once. 
+    * The time is O(N) because we only visited the matrix once.
     * */
     public int maxAreaOfIsland(int[][] grid) {
         if (grid == null || grid.length == 0) return 0;
